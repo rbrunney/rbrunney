@@ -15,37 +15,48 @@
 <h2 align="center">Technologies I Know</h2>
 
 <h3>Front End</h3>
-<img src="https://raw.github.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+<p align="left">
+    <img src="https://raw.github.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+</p>
 <h3>Coding Language</h3>
-<img src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://raw.github.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-<img src="https://raw.github.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
-<img src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<p align="left">
+    <img src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+    <img src="https://raw.github.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+    <img src="https://raw.github.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+    <img src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+</p>
 <h3>REST-API Framework</h3>
-<img src="https://raw.github.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-<img style="background-color:white; border-radius: 50%; width:45;height:45" src="https://raw.github.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+<p align="left">
+    <img src="https://raw.github.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+    <img style="background-color:white; border-radius: 50%; width:45;height:45" src="https://raw.github.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</p>
 <h3>Database</h3>
-<img src="https://raw.github.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+<p align="left">
+    <img src="https://raw.github.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</p>
 <h3>Messaging Service</h3>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="RabbitMQ" width="40" height="40"/>
-<img style="background-color:white; border-radius: 50%; width:45;height:45" src="https://raw.github.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+<p align="left">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="RabbitMQ" width="40" height="40"/>
+    <img style="background-color:white; border-radius: 50%; width:45;height:45" src="https://raw.github.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+</p>
 <h3>Orchestration/Hosting</h3>
-<img src="https://images.g2crowd.com/uploads/product/hd_favicon/1508885007/netflix-eureka.png" alt="Netflix Eureka" width="40" height="40"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="Docker Compose" width="40" height="50"/>
-<img src="https://raw.github.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+<p align="left">
+    <img src="https://images.g2crowd.com/uploads/product/hd_favicon/1508885007/netflix-eureka.png" alt="Netflix Eureka" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="Docker Compose" width="40" height="50"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/robert-brunney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-brunney/" height="30" width="40" /></a>
-<a href="https://github.com/rbrunney" target="blank"><img style="background-color:white; border-radius: 50%; width:40;height:40" align="center" src="https://raw.github.com/devicons/devicon/master/icons/github/github-original.svg" alt="https://github.com/rbrunney" height="40" width="40" /></a>
-
+    <a href="https://www.linkedin.com/in/robert-brunney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-brunney/" height="30" width="40" /></a>
+    <a href="https://github.com/rbrunney" target="blank"><img style="background-color:white; border-radius: 50%; width:40;height:40" align="center" src="https://raw.github.com/devicons/devicon/master/icons/github/github-original.svg" alt="https://github.com/rbrunney" height="40" width="40" /></a>
 </p> 
