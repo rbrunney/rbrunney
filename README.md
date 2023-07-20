@@ -69,7 +69,7 @@ Hello there! My name is Robert Brunney and currently, I'm a graduating senior at
             <p align="center">
                 <img src="https://images.g2crowd.com/uploads/product/hd_favicon/1508885007/netflix-eureka.png" alt="Netflix Eureka" width="40" height="40"/>
                 <img src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-                <img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="Docker Compose" width="40" height="50"/>
+                <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="Docker Compose" width="40" height="50"/>
                 <img src="https://raw.github.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
             </p>
         </td>
