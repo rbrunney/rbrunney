@@ -74,6 +74,21 @@ Hello there! My name is Robert Brunney and currently, I'm a graduating senior at
             </p>
         </td>
     </tr>
+    <tr>
+        <td></td>
+        <td>
+            <h3 align="center">Other</h3>
+                <img src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij" width="40" height="40"/>
+                 <img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="Rider" width="40" height="40"/>
+                <img src="https://raw.github.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+                <img src="https://raw.github.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+                <img src="https://raw.github.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+            <p align="center">
+            </p>
+        </td>
+        <td></td>
+    </tr>
 <table>
 
 <h3 align="center">Connect with me:</h3>
