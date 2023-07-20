@@ -76,8 +76,8 @@ Hello there! My name is Robert Brunney and currently, I'm a graduating senior at
     </tr>
 <table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://www.linkedin.com/in/robert-brunney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-brunney/" height="30" width="40" /></a>
     <a href="https://github.com/rbrunney" target="blank"><img style="background-color:white; border-radius: 50%; width:40;height:40" align="center" src="https://raw.github.com/devicons/devicon/master/icons/github/github-original.svg" alt="https://github.com/rbrunney" height="40" width="40" /></a>
 </p> 
